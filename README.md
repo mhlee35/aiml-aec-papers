@@ -1,6 +1,6 @@
-# Paper Collection of Machine Learning(ML) + Architecture Engineering
+# Paper Collection of Machine Learning(ML) + Architectural Engineering
 
-This is research papers of architecture engineering based machine learning techniques.
+This is research papers of architectural engineering based machine learning techniques.
 
 ## Machine Learning + Urban Planning & Real Estate
 * [Measuring human perceptions of a large-scale urban region using machine learning. Landscape and Urban Planning](https://www.sciencedirect.com/science/article/abs/pii/S0169204618308545) by Zhang, F., Zhou, B., Liu, L., Liu, Y., Fung, H. H., Lin, H., & Ratti, C. (2018).
