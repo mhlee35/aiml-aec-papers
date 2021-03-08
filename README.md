@@ -10,6 +10,9 @@ This is research papers of architectural engineering based machine learning tech
 * [Machine learning methods to forecast temperature in buildings](https://www.sciencedirect.com/science/article/abs/pii/S0957417412009918) by Mateo, F., Carrasco, J. J., Sellami, A., Millán-Giraldo, M., Domínguez, M., & Soria-Olivas, E. (2013).
 
 ## Machine Learning + HVAC
+* [Regression-based approach to modeling emerging HVAC technologies in EnergyPlus: A case study using a Vuilleumier-cycle heat pump](https://www.sciencedirect.com/science/article/pii/S1876610217300504) by Woods, J., & Bonnema, E. (2019). 
+* [Energy efficient building HVAC control algorithm with real-time occupancy prediction](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12646) by Shi, J., Yu, N., & Yao, W. (2017). 
+
 
 ## Machine Learning + Construction Management
 * [A multi‐objective genetic algorithm strategy for robust optimal sensor placement](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12646) by Civera, M., Pecorelli, M. L., Ceravolo, R., Surace, C., & Zanotti Fragonara, L. (2020). 
