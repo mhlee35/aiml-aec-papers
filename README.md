@@ -18,6 +18,8 @@ This is research papers of architectural engineering based machine learning tech
 * [A multi‐objective genetic algorithm strategy for robust optimal sensor placement](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12646) by Civera, M., Pecorelli, M. L., Ceravolo, R., Surace, C., & Zanotti Fragonara, L. (2020). 
 * [Simulation-based construction productivity forecast using neural-network-driven fuzzy reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0926580515002691) by Mirahadi, F., & Zayed, T. (2016).
 * [Supervised vs. unsupervised learning for construction crew productivity prediction](https://www.sciencedirect.com/science/article/abs/pii/S0926580511001634) by Oral, M., Oral, E. L., & Aydın, A. (2012).
+* [Convolutional neural networks: Computer vision-based workforce activity assessment in construction](https://www.sciencedirect.com/science/article/abs/pii/S0926580518305855) by Luo, H., Xiong, C., Fang, W., Love, P. E., Zhang, B., & Ouyang, X. (2018).
+* [Automated detection of workers and heavy equipment on construction sites: A convolutional neural network approach](https://www.sciencedirect.com/science/article/abs/pii/S1474034617304706) by Fang, W., Ding, L., Zhong, B., Love, P. E., & Luo, H. (2018).
 
 
 ## Machine Learning + Structure
