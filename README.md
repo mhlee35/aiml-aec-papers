@@ -4,6 +4,7 @@ This is research papers of architectural engineering based machine learning tech
 
 ## Machine Learning + Urban Planning & Real Estate
 * [Measuring human perceptions of a large-scale urban region using machine learning. Landscape and Urban Planning](https://www.sciencedirect.com/science/article/abs/pii/S0169204618308545) by Zhang, F., Zhou, B., Liu, L., Liu, Y., Fung, H. H., Lin, H., & Ratti, C. (2018).
+* [Real estate value prediction using linear regression] (https://ieeexplore.ieee.org/abstract/document/8697639) by Ghosalkar, N. N., & Dhage, S. N. (2018).
 
 ## Machine Learning + Indoor Quality & Environment
 * [Machine learning and statistical models for predicting indoor air quality](https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12580) by Wei, W., Ramalho, O., Malingre, L., Sivanantham, S., Little, J. C., & Mandin, C. (2019).
