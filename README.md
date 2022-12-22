@@ -30,3 +30,6 @@ This is research papers of architectural engineering based machine learning tech
 
 ## Machine Learning + Civil
 * [The development of Gaussian process regression for effective regional post‐earthquake building damage inference](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12630) by Sheibani, M., & Ou, G. (2020).
+
+## DigitalTwin
+* [Towards a semantic Construction Digital Twin: Directions for future research](https://www.sciencedirect.com/science/article/pii/S0926580519314785) by Boje, C., Guerriero, A., Kubicki, S., & Rezgui, Y. (2020).
