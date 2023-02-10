@@ -12,7 +12,9 @@ This is research papers of architectural engineering based AI/ML techniques.
 
 ## AI/ML + HVAC
 * [Regression-based approach to modeling emerging HVAC technologies in EnergyPlus: A case study using a Vuilleumier-cycle heat pump](https://www.sciencedirect.com/science/article/pii/S1876610217300504) by Woods, J., & Bonnema, E. (2019). 
-* [Energy efficient building HVAC control algorithm with real-time occupancy prediction](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12646) by Shi, J., Yu, N., & Yao, W. (2017). 
+* [Energy efficient building HVAC control algorithm with real-time occupancy prediction](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12646) by Shi, J., Yu, N., & Yao, W. (2017).
+* [Intelligent multi-zone residential HVAC control strategy based on deep reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S030626192031535X) by
+Du, Y., Zandi, H., Kotevska, O., Kurte, K., Munk, J., Amasyali, K., ... & Li, F. (2021).
 
 
 ## AI/ML + Construction Management
